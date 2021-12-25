@@ -1,1 +1,4 @@
 Привет мир!
+Red
+Black
+White
