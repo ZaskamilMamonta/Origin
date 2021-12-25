@@ -1,4 +1,5 @@
 Привет мир!
-Red
+Mr.Red
 Mr.Black
-White
+Mr.White
+
