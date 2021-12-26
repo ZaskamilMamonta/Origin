@@ -1,6 +1,6 @@
 Привет мир!
 Красный первый
 Mr.Black Three
-Mr.White Two
+Белый второй
 
 
